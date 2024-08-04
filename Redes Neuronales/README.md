@@ -11,3 +11,5 @@ Este dataset es muy sencillo para que todos los alumnos lo puedan trabajar sin p
 Falta probar aumentar el tamaño de la red (es decir, más neuronas por capa) y ver cómo afectan las técnicas dependiendo del tamaño del modelo.   
 El overfitting va muy de la mano con la capacidad del modelo. En este caso, 4 capas de 64 neuronas constituyen una red muy pequeña. ¡Aun así, buena práctica!  
 </div>
+<br>
+Actividad 2 -> 5
