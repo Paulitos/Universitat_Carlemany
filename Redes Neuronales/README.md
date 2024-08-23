@@ -13,3 +13,4 @@ El overfitting va muy de la mano con la capacidad del modelo. En este caso, 4 ca
 </div>
 <br>
 Actividad 2 -> 5
+Actividad 4 -> 6.5
