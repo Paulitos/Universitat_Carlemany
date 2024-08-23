@@ -12,5 +12,7 @@ Falta probar aumentar el tamaño de la red (es decir, más neuronas por capa) y 
 El overfitting va muy de la mano con la capacidad del modelo. En este caso, 4 capas de 64 neuronas constituyen una red muy pequeña. ¡Aun así, buena práctica!  
 </div>
 <br>
-Actividad 2 -> 5  
+Actividad 2 -> 5
+</br>
+<br>
 Actividad 4 -> 6.5
