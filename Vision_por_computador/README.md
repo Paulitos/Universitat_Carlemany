@@ -9,3 +9,7 @@ Quiz 2 -> 5
 
 Durante este quiz de visión por computadora, aprendí a utilizar redes neuronales multicapa para tareas de clasificación de imágenes, específicamente con el conjunto de datos MNIST. Comprendí cómo configurar un `MLPClassifier` de Scikit-learn, ajustando parámetros como el número de capas ocultas, la función de activación y los optimizadores (`adam` y `sgd`). Exploré cómo el tamaño de las capas y el tipo de optimizador afectan la precisión y el rendimiento del modelo. También profundicé en el preprocesamiento de imágenes externas, asegurando el formato adecuado (escala de grises, normalización y redimensionamiento a \(28 \times 28\)) para que puedan ser clasificadas correctamente. En resumen, aprendí a entrenar y evaluar redes neuronales simples y a integrarlas con imágenes personalizadas en el flujo de trabajo de visión por computadora.
 
+Quiz 3 -> 8  
+
+En este quiz se evaluaron modelos YOLOv8 en imágenes usando formatos **BGR** y **RGB**, analizando diferencias en predicciones, niveles de confianza y detección de clases como personas y objetos. Se observó que **BGR** suele tener mayores niveles de confianza, pero el número de detecciones es igual en ambos formatos.
+
